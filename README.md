@@ -97,7 +97,7 @@
     ```
     jfrog rt u "path to your file" generic-local
     ```
-    Visit [JFrog CLI](https://www.jfrog.com/confluence/display/CLI/CLI+for+JFrog+Artifactory) for more commands.
+    Visit    [JFrog CLI](https://www.jfrog.com/confluence/display/CLI/CLI+for+JFrog+Artifactory) for more commands.
 
     You can deploy the application on any cloud platform or you can push the build image to docker hub.
 - ## References
